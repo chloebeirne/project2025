@@ -28,3 +28,4 @@ public String getBalanceFormatted() {
     return currency.format(Balance);
 }
 }
+
